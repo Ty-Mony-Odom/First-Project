@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\Vidly\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D3491F92-93B8-465A-AE30-33829D663068}|Vidly\\Vidly.csproj|c:\\projects\\vidly\\vidly\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3491F92-93B8-465A-AE30-33829D663068}|Vidly\\Vidly.csproj|solutionrelative:vidly\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3491F92-93B8-465A-AE30-33829D663068}|Vidly\\Vidly.csproj|c:\\projects\\vidly\\vidly\\views\\shared\\_navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3491F92-93B8-465A-AE30-33829D663068}|Vidly\\Vidly.csproj|solutionrelative:vidly\\views\\shared\\_navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3491F92-93B8-465A-AE30-33829D663068}|Vidly\\Vidly.csproj|c:\\projects\\vidly\\vidly\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3491F92-93B8-465A-AE30-33829D663068}|Vidly\\Vidly.csproj|solutionrelative:vidly\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3491F92-93B8-465A-AE30-33829D663068}|Vidly\\Vidly.csproj|C:\\Projects\\Vidly\\vidly\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3491F92-93B8-465A-AE30-33829D663068}|Vidly\\Vidly.csproj|solutionrelative:vidly\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_NavBar.cshtml",
+              "DocumentMoniker": "C:\\Projects\\Vidly\\Vidly\\Views\\Shared\\_NavBar.cshtml",
+              "RelativeDocumentMoniker": "Vidly\\Views\\Shared\\_NavBar.cshtml",
+              "ToolTip": "C:\\Projects\\Vidly\\Vidly\\Views\\Shared\\_NavBar.cshtml",
+              "RelativeToolTip": "Vidly\\Views\\Shared\\_NavBar.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-24T16:18:17.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Projects\\Vidly\\Vidly\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Vidly\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Projects\\Vidly\\Vidly\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Vidly\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-24T16:14:32.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "C:\\Projects\\Vidly\\Vidly\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "Vidly\\Controllers\\MoviesController.cs",
+              "ToolTip": "C:\\Projects\\Vidly\\Vidly\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "Vidly\\Controllers\\MoviesController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwB4AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T14:16:54.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Projects\\Vidly\\Vidly\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "Vidly\\Models\\Movie.cs",
+              "ToolTip": "C:\\Projects\\Vidly\\Vidly\\Models\\Movie.cs",
+              "RelativeToolTip": "Vidly\\Models\\Movie.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T14:14:39.557Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
